@@ -1,1 +1,3 @@
-Say yes to 1 and say no to 99
+Say yes to 1 and say no to 92
+say no 
+yes 

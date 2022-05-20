@@ -1,0 +1,9 @@
+single space should be there in between key and value 
+key UN pw
+value admin manager
+//where our note pad file is kept file input stream fis = new file input stream("path");
+//it will create Notepad file into java file properties p+ new properties();
+p.load(fis);
+string data = p.getProprty("key");
+it should be saved with PROPERTIES extension. 
+1
